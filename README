@@ -1,0 +1,9 @@
+## Unshredder ##
+
+Small ruby script to put back an image shredded in equally wide shreds.
+
+It even figures out the shred width by itself.
+
+### Usage ###
+
+You need to have RMagick up and running to use it, and it will unshred the image found in `input.png`
